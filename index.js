@@ -8,6 +8,6 @@ app.get("/",(req,res)=>{
 })
 
 const PORT = process.env.POST || 5000;
-c
+app.listen(PORT);
 
 
